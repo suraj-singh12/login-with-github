@@ -8,7 +8,7 @@
 ```bash
 git pull https://github.com/suraj-singh12/login-with-github.git
 ```
-## install dependencies
+## Install Dependencies
 ```bash
 cd login-with-github
 ```
@@ -16,19 +16,19 @@ cd login-with-github
 npm install
 ```
 
-## make .env file with following structure
+## Make .env file with following structure
 ```npm
 PORT = any_port_no
 CLIENT_ID = 'your_github_client_id'
 CLIENT_SECRET = 'your_github_client_secret'
 ```
 
-## run the app
+## Run the APP
 ```npm
 npm start
 ```
 
-## for development
+## For Development
 ```npm
 npm run dev
 ```
