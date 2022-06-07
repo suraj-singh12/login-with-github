@@ -1,0 +1,19 @@
+{
+  "name": "loginwithgit",
+  "version": "1.0.0",
+  "description": "login-with-git",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "suraj-singh12",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "request": "^2.88.2",
+    "superagent": "^7.1.6"
+  }
+}
